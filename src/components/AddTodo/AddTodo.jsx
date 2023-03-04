@@ -26,6 +26,7 @@ export const AddTodo = ({ todo, setTodo }) => {
         className: "toast-message",
       });
     }
+    
     setValue("");
   };
 
